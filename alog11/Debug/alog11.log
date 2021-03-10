@@ -1,0 +1,16 @@
+﻿  best.c
+C:\Users\정준영\Source\Repos\alog11\best.c(34,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+bfs.obj : error LNK2005: _bound이(가) best.obj에 이미 정의되어 있습니다.
+bfs.obj : error LNK2005: _main이(가) best.obj에 이미 정의되어 있습니다.
+bfs.obj : error LNK2005: _W이(가) best.obj에 이미 정의되어 있습니다.
+bfs.obj : error LNK2005: _maxprofit이(가) best.obj에 이미 정의되어 있습니다.
+bfs.obj : error LNK2005: _totw이(가) best.obj에 이미 정의되어 있습니다.
+dfs.obj : error LNK2005: _main이(가) best.obj에 이미 정의되어 있습니다.
+dfs.obj : error LNK2005: _W이(가) best.obj에 이미 정의되어 있습니다.
+dfs.obj : error LNK2005: _include이(가) bfs.obj에 이미 정의되어 있습니다.
+dfs.obj : error LNK2005: _numset이(가) bfs.obj에 이미 정의되어 있습니다.
+dfs.obj : error LNK2005: _maxprofit이(가) best.obj에 이미 정의되어 있습니다.
+dfs.obj : error LNK2005: _w이(가) bfs.obj에 이미 정의되어 있습니다.
+dfs.obj : error LNK2005: _p이(가) bfs.obj에 이미 정의되어 있습니다.
+dfs.obj : error LNK2005: _n이(가) bfs.obj에 이미 정의되어 있습니다.
+C:\Users\정준영\Source\Repos\alog11\Debug\alog11.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

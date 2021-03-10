@@ -1,0 +1,2 @@
+C:\Users\정준영\Source\Repos\10_sum_of_problem\Debug\10_sum_of_problem.exe
+C:\Users\정준영\Source\Repos\10_sum_of_problem\Debug\10_sum_of_problem.pdb

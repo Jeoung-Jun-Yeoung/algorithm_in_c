@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\정준영\Source\Repos\07_Algo_Optimal_Graph\main.c(105,12): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+C:\Users\정준영\Source\Repos\07_Algo_Optimal_Graph\main.c(105,15): warning C4101: 'l' :참조되지 않은 지역 변수입니다.
+  07_Algo_Optimal_Graph.vcxproj -> C:\Users\정준영\Source\Repos\07_Algo_Optimal_Graph\Debug\07_Algo_Optimal_Graph.exe
